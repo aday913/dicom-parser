@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-dicom-parser
+dicomparser
 
 # Test binary, built with `go test -c`
 *.test
